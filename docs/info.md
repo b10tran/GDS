@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+My project changes the light of the LED when the switches are turned on and off.
 
 ## How to test
 
-Explain how to use your project
+My circuit has NOT, MUX, and AND gates that turn on the LED's.
 
 ## External hardware
 
